@@ -1,0 +1,66 @@
+[
+  {
+    "key": "KID123",
+    "title": "Kids Enjoying Miming",
+    "img": "https://media.istockphoto.com/photos/primary-school-kids-run-holding-hands-in-corridor-close-up-picture-id1031384160?k=20&m=1031384160&s=612x612&w=0&h=zIzJ6EQ-pY3IcZLRb3Rk4VXXLrIZKAmRJIysIHpr_Qw=",
+    "teacher": "Shovon Raihan",
+    "price": 30
+  },
+  {
+    "key": "KID124",
+    "title": "Basic Skill",
+    "img": "https://media.istockphoto.com/photos/school-kids-running-in-elementary-school-hallway-front-view-picture-id839325654?k=20&m=839325654&s=612x612&w=0&h=AzG_B3LZ9xfIS1lGDV8oeIZxHogC4fHtQrKLMqU8hHI=",
+    "teacher": "Farhana Raihan",
+    "price": 30
+  },
+  {
+    "key": "KID121",
+    "title": "Enquire Now",
+    "img": "https://s3.amazonaws.com/law-media/uploads/131/62341/large/student_child_kid_school_ss.jpg?1544751846",
+    "teacher": "Shovon Ahmed",
+    "price": 30
+  },
+  {
+    "key": "KID223",
+    "title": "Soccer & Multisports Program ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1iTMoUB6IFkU9AXciEHu0UNOh77-W4BElA&usqp=CAU",
+    "teacher": "Nahian Roney",
+    "price": 30
+  },
+  {
+    "key": "KID423",
+    "title": "Zumba & Yoga",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8eOJsWRT5Q889hHN5yITdpT1LIEKz5621dBeAqtwhVpJGzg0i6tG9oYfaqEuPGAlLgsw&usqp=CAU",
+    "teacher": "Nahian Morshed",
+    "price": 30
+  },
+  {
+    "key": "KID323",
+    "title": "Active Learning",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFh6oL4IxhkiJBuim0tEM2bs8AuMPPAODyL6Rg4NJzJ3u9jq7stDUZm5r0MMeMQ-c-wkM&usqp=CAU",
+    "teacher": "Mehjabin Johra",
+    "price": 30
+  },
+
+  {
+    "key": "KID163",
+    "title": "Guided Drawing",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFh6oL4IxhkiJBuim0tEM2bs8AuMPPAODyL6Rg4NJzJ3u9jq7stDUZm5r0MMeMQ-c-wkM&usqp=CAU",
+    "teacher": "Khadiza Mala",
+    "price": 30
+  },
+  {
+    "key": "KID183",
+    "title": "Painting Competition",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIYr1Zw5AiAVr2cyJL3eaF9gyP9NQ8umYvAvICd-xgaDPfvchm2SVDVUw3DwN9x9ZGEM&usqp=CAU",
+    "teacher": "Hebron Hamim",
+    "price": 30
+  },
+  {
+    "key": "KID183",
+    "title": "The ABC Of Letters",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8eOJsWRT5Q889hHN5yITdpT1LIEKz5621dBeAqtwhVpJGzg0i6tG9oYfaqEuPGAlLgsw&usqp=CAU",
+    "teacher": "Tauhidur Rahman",
+    "price": 30
+  }
+]
